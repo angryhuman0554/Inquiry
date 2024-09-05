@@ -122,6 +122,16 @@
         width: auto;
     }
 
+    .map {
+        height: 192px;
+        width: 192px;
+    }
+    
+    .flag {
+        height: 125px;
+        width: 188px;
+    }
+
     .textBox {
         height: auto;
         width: auto;
