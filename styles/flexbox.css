@@ -27,6 +27,16 @@
     width: 683px;
 }
 
+.map {
+    height: 384px;
+    width: 384px;
+}
+
+.flag {
+    height: 250px;
+    width: 375px;
+}
+
 .textBox {
     display: flex;
     flex-direction: column;
@@ -46,6 +56,11 @@
 .textBox p {
     font-size: 25px;
     color: lightgray;
+}
+
+.flagtxt {
+    height: 230px;
+    width: 375px;
 }
 
 .reviewBoxOuter {
