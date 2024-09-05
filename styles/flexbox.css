@@ -122,16 +122,6 @@
         width: auto;
     }
 
-    .map {
-        height: 192px;
-        width: 192px;
-    }
-    
-    .flag {
-        height: 125px;
-        width: 188px;
-    }
-
     .textBox {
         height: auto;
         width: auto;
@@ -153,5 +143,25 @@
     .review {
         height: auto;
         width: auto;
+    }
+
+    .map {
+        height: 256px;
+        width: 256px;
+    }
+
+    .maptxt {
+        height: auto;
+        width: 256px;
+    }
+    
+    .flag {
+        height: 200px;
+        width: 300px;
+    }
+
+    .flagtxt {
+        height: auto;
+        width: 280px;
     }
 }
