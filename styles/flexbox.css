@@ -22,7 +22,7 @@
     padding: 20px;
 }
 
-.flexboxRowL video, .flexboxRowR video {
+.flexboxRowL iframe, .flexboxRowR iframe {
     height: 384px;
     width: 683px;
 }
@@ -117,7 +117,7 @@
         padding: 15px;
     }
 
-    .flexboxRowL video, .flexboxRowR video {
+    .flexboxRowL iframe, .flexboxRowR iframe {
         height: auto;
         width: auto;
     }
